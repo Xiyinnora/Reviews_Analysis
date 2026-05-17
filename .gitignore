@@ -1,0 +1,21 @@
+# Large raw data
+Reviews.csv
+
+# Generated artifacts
+data/
+models/
+
+# OS files
+.DS_Store
+
+# Claude Code
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+env/
